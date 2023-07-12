@@ -5,7 +5,9 @@
 
 }
 body {
-    background-color: #d9dcd6;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
 
 
     }
@@ -20,7 +22,6 @@ body {
 }
 .header {
 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: black;
     color: #ffffff;
     padding-top: 20px;
@@ -74,9 +75,8 @@ body {
     
   }
   
-  /* Bottom right text */
+  /* Text box inside of image */
   .text-box {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     position: absolute;
     bottom: 50px;
     right: 20px;
@@ -89,24 +89,47 @@ body {
     font-size: 20px;
   }
 
- .side-headers {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: left;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+  .container1 {
+    display: flex;
+    margin-top: 30px;
+
     
   }
-
-  .aboutMe, .work, .contact {
-
-    margin-bottom: 40px;
-    font-size: 30px;
+  .aboutme {
+    font-size: 55px;
+    flex-wrap: wrap;
+    margin-left: 60px;
+    margin-right: 10px;
     text-align: right;
-    
+
   }
 
+  .aboutmeinfo {
+    font-size: 20px;
+    flex-wrap: wrap;
+    margin-left: 15px;
+    margin-right: 60px;
+    border-left:  solid;
+    padding-left: 15px;
+  }
+
+  .container2 {
+    display: flex;
+    margin-top: 40px;
+  }
+.work {
+    font-size: 55px;
+    margin-left: 80px;
+    margin-right: 12px;
+    text-align: right;
+}
+.workimage1 {
+    border-left: solid;
+    padding-left: 15px;
+    margin-left: 15px;
+
+}
 
 
