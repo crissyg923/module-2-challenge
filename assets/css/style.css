@@ -117,8 +117,17 @@ body {
 
   .container2 {
     display: flex;
+    align-content: stretch;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     margin-top: 40px;
   }
+  .container-2-child {
+    display:flex;
+    flex-direction: row;
+  }
+
 .work {
     font-size: 55px;
     margin-left: 80px;
@@ -129,9 +138,9 @@ body {
     border-left: solid;
     padding-left: 15px;
     margin-left: 15px;
-    flex-wrap: wrap;
+    margin-right: 60px;
     position: relative;  
-    flex: 1 1 auto; 
+    flex-grow: 1; 
 }
 .workimage1 img {
     border: 4px orange solid;
@@ -152,6 +161,54 @@ body {
     padding-bottom: 5px;
     font-size: 20px;
 }
+
+
+
+
+.placeholderimages-box {
+  display: flex;
+  justify-content: space-evenly;
+  border-left: solid;
+}
+
+.placeholderimage {
+  margin-left: 200px;
+}
+.contactcontainer {
+  display: flex;
+  padding-top: 40px;
+  
+  flex-wrap: wrap;
+}
+
+
+
+.contactme {
+    font-size: 55px;
+    flex-wrap: wrap;
+    margin-left: -10px;
+    margin-right: 20px;
+    text-align: right;
+    width: 20%;
+    flex-shrink: 3;
+
+}
+.contactcontainer-child {
+  display: flex;
+  border-left: solid;
+  
+}
+
+
+.contactmeinfo {
+  font-size: 20px;
+  flex-wrap: wrap;
+  margin-left: 50px;
+  margin-right: 60px;
+  padding-left: 60px;
+  padding-bottom: 200px;
+}
+
 
 
 
