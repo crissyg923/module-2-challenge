@@ -57,7 +57,7 @@ You can contribute to this project by increasing its accessibility, making the c
 
 ## Credits
 
-This site was created with the assistance of the TA's in office hours, Chrom DevTools, and various google searches.  The following links really helped me in the process of creating this site:
+This site was created with the assistance of the TA's in office hours, Chrom DevTools, and various google searches.  I also used code from previos assignments as a guide to get me started. The following links really helped me in the process of creating this site:
 
 [Adding a Border to Navigation Links](https://www.w3schools.com/howto/howto_css_navbar_border.asp)
 
