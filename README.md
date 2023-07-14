@@ -4,7 +4,7 @@
 ## Project Description
 
 * [Link to Repo](https://github.com/crissyg923/crystal-module-1-challenge)
-* [Link to Deployed Site](https://crissyg923.github.io/crystal-module-1-challenge/)
+* [Link to Deployed Site](https://crissyg923.github.io/module-2-challenge/)
 
  
 This repository marks a major milestone in my coding bootcamp journey as it contains my first portfolio!  As daunting as this project became at times, I am truly proud of what I was able to create and can't wait to look back at this in a few months to see how far I have come.  To say I learned a lot during this project is an understatement, but I will try to sum it up.  I was able to:
@@ -51,13 +51,13 @@ When you are done, save your changes and push them to the repo using the followi
 
 ## Usage 
 
-You can contribute to this project by increasing its accessibility, making the code more efficient, or anything that you feel would be beneficial.  You can also open up this page using Google Chrome’s Dev tools to inspect the coding of the site. In order to view the site's code using Chrome's DevTools, simply navigate to [the deployed site](https://crissyg923.github.io/crystal-module-1-challenge/) in a Google Chrome browser, right click anywhere on the site, and click Inspect.  Below is what you should see:
+You can contribute to this project by increasing its accessibility, making the code more efficient, or anything that you feel would be beneficial.  You can also open up this page using Google Chrome’s Dev tools to inspect the coding of the site. In order to view the site's code using Chrome's DevTools, simply navigate to [the deployed site](https://crissyg923.github.io/module-2-challenge/) in a Google Chrome browser, right click anywhere on the site, and click Inspect.  Below is what you should see:
 
-![Site Screenshot](/02-Challenge/Develop/assets/Site%20screenshot.jpg "Website Screenshot")
+![Site Screenshot](assets/images/Site-Screenshot.png "Website Screenshot")
 
 ## Credits
 
-This site was created with the assistance of the TA's in office hours and various google searches.  The following links really helped me in the process of creating this site:
+This site was created with the assistance of the TA's in office hours, Chrom DevTools, and various google searches.  The following links really helped me in the process of creating this site:
 
 [Adding a Border to Navigation Links](https://www.w3schools.com/howto/howto_css_navbar_border.asp)
 
