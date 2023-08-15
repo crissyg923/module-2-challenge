@@ -183,6 +183,7 @@ body {
 
 .placeholderimage {
   margin-left: 200px;
+  max-width: 300px;
 }
 
 /*Contact Section*/
